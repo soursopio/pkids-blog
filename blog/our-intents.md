@@ -1,7 +1,7 @@
 ---
 title: Intents
 og: img/banner-computersepia.jpg
-thumb: img/dashboard-thumb.png
+thumb: img/py-intent-thumb.png
 date: 2025-07-13
 credits: sight media lab.
 ---
